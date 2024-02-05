@@ -14,4 +14,4 @@ torchvision               0.12.0+cu113
 2. run wTest.py, and the results will be saved in the RESULT file "cTest" of  the datasets.
 
 Thank you and enjoy the tool!# MMD-DTI
-# MMD-DTI
+
